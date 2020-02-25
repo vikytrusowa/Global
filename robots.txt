@@ -1,0 +1,8 @@
+User-agent: Yandex
+Disallow: /Global/
+
+User-agent: GoogleBot
+Disallow: /Global/
+
+User-agent: *
+Disallow: /Global/
